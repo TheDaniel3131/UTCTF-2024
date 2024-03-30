@@ -1,0 +1,11 @@
+This challenge, I am not sure why my excel has problem opening the xlsx. So I just google the error and fix it.
+If you want to know what I am referring to
+
+Problem: https://answers.microsoft.com/en-us/msoffice/forum/all/microsoft-has-blocked-macros-because-the-source-is/b86c35e5-3598-4d6e-8f89-9da6fb4693e4
+
+Solution: https://www.reddit.com/r/excel/comments/11vl2xl/how_can_i_unblock_macros_that_microsoft_has/
+
+
+Still not finding the things I want, so I find youtube videos about it and found this interesting past CTF challenge from John Hammond: https://youtu.be/QgHhgwKL79Q
+
+

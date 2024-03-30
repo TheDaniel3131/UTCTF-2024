@@ -5,7 +5,7 @@ import time
 
 seed = int(time.time() * 1000) % (10 ** 6)
 def get_random_number():
-    global seed 
+    global seed
     seed = int(str(seed * seed).zfill(12)[3:9])
     return seed
 
@@ -31,4 +31,6 @@ while True:
 
 flag = open('./src/flag.txt', 'r').read()
 print("Here is the encrypted flag:", encrypt(flag.encode()))
+
+
 
