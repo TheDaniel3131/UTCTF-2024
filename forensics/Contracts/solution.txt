@@ -1,0 +1,11 @@
+Since I am in a hurry mode, I use an online pdf editor tool: https://xodo.com/edit-pdf-text?step=view-and-edit-input
+
+Basically this challenge is for us to find and reveal the hidden flag underneath the PDF. There are a lot of ways to do it like you can use
+any PDF revealer tools but I am here to use a tool that is suitable for beginners.
+
+
+View: https://imgur.com/a/29VCzzV
+
+
+
+Flag: utctf{s1mple_w1z4rding_mist4k3s}
