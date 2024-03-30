@@ -7,5 +7,7 @@ any PDF revealer tools but I am here to use a tool that is suitable for beginner
 View: https://imgur.com/a/29VCzzV
 
 
-
 Flag: utctf{s1mple_w1z4rding_mist4k3s}
+
+
+References: https://book.hacktricks.xyz/generic-methodologies-and-resources/basic-forensic-methodology/specific-software-file-type-tricks/pdf-file-analysis
