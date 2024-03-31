@@ -1,0 +1,3 @@
+extract the capital letters out.
+
+flag: UTFLAG{BYETHANKS}
